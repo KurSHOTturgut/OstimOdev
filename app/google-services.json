@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317695496289",
+    "firebase_url": "https://otuformuygulamasi-default-rtdb.firebaseio.com",
+    "project_id": "otuformuygulamasi",
+    "storage_bucket": "otuformuygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317695496289:android:e73a5779e9313ece1dda20",
+        "android_client_info": {
+          "package_name": "com.example.formostimuyglamam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317695496289-l6p930pr34ifpgib7ciu20f9ts8r15e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.formostimuyglamam",
+            "certificate_hash": "f95e8decb7f176fe09715642b7a94cda84be60e8"
+          }
+        },
+        {
+          "client_id": "317695496289-7ps51kk7646vs7rgg4g42adkjs0f80ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-gxGvyeIVJn_FCFaAkPwh-ENO1qtaI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317695496289-7ps51kk7646vs7rgg4g42adkjs0f80ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
